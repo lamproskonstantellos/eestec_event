@@ -2,6 +2,9 @@ https://semihozden.github.io/eestec_event/website/
 
 Tomi - https://tomislav-ficko.github.io/Personal-website/Personal%20website/index.html
 
+Lampros - https://lamproskonstantellos.github.io/myPersonalHomePage/myPersonalHomePage/
+
+
 https://utkcm.github.io/blog/Project/
 
 # IEEE EESTEC EVENT
